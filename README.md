@@ -8,6 +8,7 @@ Currently in this repository is a Jupyter Notebook *(kittiLoader.ipynb)* with de
  - Load 
  - Visualize 
  - Manipulate 
+ 
  The data from the 3D detection benchmark. 
  
  *Forgive the pure English level, some impovements may come shortly*
