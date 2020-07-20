@@ -4,7 +4,7 @@
 The code was implemented using python 3.6
 
 
-Currently in this repository is a Jupyter Notebook (kittiLoader.ipynb) with detailed instruction on how to:
+Currently in this repository is a Jupyter Notebook *(kittiLoader.ipynb)* with detailed instruction on how to:
  - Load 
  - Visualize 
  - Manipulate 
